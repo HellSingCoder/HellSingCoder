@@ -1,8 +1,8 @@
-I’m a curious Italian guy with a huge passion for the industry that, during the years, learned a bunch of programming languages and developed a considerable amount of skills.
-After focusing my studies on artificial intelligence, I worked as a full stack developer and as IT support technician for a while, before moving to Dublin.
-Here I worked as a bartender until I found out that I was on the wrong side of the counter, picked up a few contracts as a freelancer and worked as an IT one man army for a startup company related to the world of financial trading. I lately moved to the CRM customization trade and my code is now powering critical services in public and private international companies that I can not reveal because protected by a non disclosure contract and, if that doesn’t sound cool, I don’t know what will.
+![Banner](https://github.com/HellSingCoder/HellSingCoder/blob/main/coding-video.gif?raw=true)
 
-[![HellSingCoder's github stats](https://github-readme-stats.vercel.app/api?username=HellSingCoder&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/HellSingCoder/github-readme-stats)
+![Logo](https://github.com/HellSingCoder/HellSingCoder/blob/main/logo.png?raw=true) I’m a curious Italian guy with a huge passion for the industry that, during the years, learned a bunch of programming languages and developed a considerable amount of skills. After focusing my studies on artificial intelligence, I worked as a full stack developer and as IT support technician for a while, before moving to Dublin. Here I worked as a bartender until I found out that I was on the wrong side of the counter, picked up a few contracts as a freelancer and worked as an IT one man army for a startup company related to the world of financial trading. I lately moved to the CRM customization trade and my code is now powering critical services in public and private international companies that I can not reveal because protected by a non disclosure contract and, if that doesn’t sound cool, I don’t know what will.
+
+[![HellSingCoder's github stats](https://github-readme-stats.vercel.app/api?username=HellSingCoder&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/HellSingCoder/github-readme-stats) ![Pic](https://github.com/HellSingCoder/HellSingCoder/blob/main/me_doll.png?raw=true)
 
 ![Php](https://img.shields.io/badge/-php-black?logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
