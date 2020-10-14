@@ -1,1 +1,1 @@
-[![HellSingCoder's github stats](https://github-readme-stats.vercel.app/api?username=HellSingCoder)](https://github.com/HellSingCoder/github-readme-stats)
+[![HellSingCoder's github stats](https://github-readme-stats.vercel.app/api?username=HellSingCoder&count_private=true&show_icons=true&theme=darcula)](https://github.com/HellSingCoder/github-readme-stats)
