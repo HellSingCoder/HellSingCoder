@@ -1,4 +1,4 @@
-[![HellSingCoder's github stats](https://github-readme-stats.vercel.app/api?username=HellSingCoder&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/HellSingCoder/github-readme-stats) <img align="right" width="200" src="https://github.com/HellSingCoder/HellSingCoder/blob/main/me_doll.png?raw=true">
+[![HellSingCoder's github stats](https://github-readme-stats.vercel.app/api?username=HellSingCoder&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true)](https://github.com/HellSingCoder/github-readme-stats) <img align="right" width="200" src="https://github.com/HellSingCoder/HellSingCoder/blob/main/me_doll.png?raw=true">
 
 ![Php](https://img.shields.io/badge/-php-black?logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
